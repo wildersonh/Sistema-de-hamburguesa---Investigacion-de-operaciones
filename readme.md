@@ -1,9 +1,3 @@
-Esta es la documentación técnica profesional para el proyecto, estructurada bajo estándares de la industria y optimizada para la legibilidad.
-
----
-
-## 1. README.md
-
 # Hamburguesas
 
 **Hamburguesas** es una herramienta de automatización para el cálculo de estados financieros mensuales. Resuelve la necesidad de procesar ingresos, costos variables y fijos de forma rápida, transformando datos de ventas semanales en reportes de rentabilidad (Ganancia/Pérdida/Equilibrio) sin necesidad de hojas de cálculo complejas.
