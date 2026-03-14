@@ -4,9 +4,9 @@ Esta es la documentación técnica profesional para el proyecto, estructurada ba
 
 ## 1. README.md
 
-# FinanceTracker CLI
+# Hamburguesas
 
-**FinanceTracker CLI** es una herramienta de automatización para el cálculo de estados financieros mensuales. Resuelve la necesidad de procesar ingresos, costos variables y fijos de forma rápida, transformando datos de ventas semanales en reportes de rentabilidad (Ganancia/Pérdida/Equilibrio) sin necesidad de hojas de cálculo complejas.
+**Hamburguesas** es una herramienta de automatización para el cálculo de estados financieros mensuales. Resuelve la necesidad de procesar ingresos, costos variables y fijos de forma rápida, transformando datos de ventas semanales en reportes de rentabilidad (Ganancia/Pérdida/Equilibrio) sin necesidad de hojas de cálculo complejas.
 
 ### Requisitos previos
 
@@ -155,11 +155,3 @@ if __name__ == "__main__":
     calcular_reporte()
 
 ```
-
----
-
-## 3. Guía de API
-
-*No aplica para este proyecto.* Este software es una aplicación de interfaz de línea de comandos (CLI) monolítica y no expone endpoints HTTP o interfaces programáticas externas en su versión actual.
-
-¿Deseas que prepare una propuesta de refactorización para mover las constantes a un archivo `.env` o `.json`?
